@@ -1,17 +1,16 @@
 # Data Analytics about car consumption habits from a telephone survey
 
 ### Abstract
-It is proposed a rehabilitation and delivery problem considering the characteristics of reliability and safety of the road network on it.
-It is studied through integer programming models, applying various multi-objective techniques.
-It is used the situation of West Bank as a relevant case study.
+It is proposed an study about car consumption tendences depending on diferent factors collected in a survey made by [Smartme Analytics](https://www.smartmeanalytics.com/) for Data Analytics subject of the Math Engeenering Degree in Complutense University of Madrid.
 
 ### Content
-- Read the full project [here](https://github.com/asevillasastre/UCM-Rehabilitation-and-Distribution-Models/blob/main/TFG-Antonio-Sevila-Sastre.pdf).
-- Models are [formulated in GAMS](https://github.com/asevillasastre/UCM-Rehabilitation-and-Distribution-Models/tree/main/src/gams).
-- There is some [auxiliar Python code](https://github.com/asevillasastre/UCM-Rehabilitation-and-Distribution-Models/tree/main/src/python).
+- Read the full project [here](https://github.com/asevillasastre/UCM-Data-Mining-Final-Project/blob/main/final-report.pdf)
+- This is all the [datasets](https://github.com/asevillasastre/UCM-Data-Mining-Final-Project/blob/main/final-report.pdf).
+- You cand find here all [code used](https://github.com/asevillasastre/UCM-Data-Mining-Final-Project/tree/main/src).
+- There is some [significant plots](https://github.com/asevillasastre/UCM-Rehabilitation-and-Distribution-Models/tree/main/src/python).
 
 ### Author
-Antonio Sevilla Sastre; directed by Mᵃ Teresa Ortuño Sánchez, from Complutense University of Madrid
+Antonio Sevilla; with Javier Nicolás and Álvaro Franciso Toledano, studying in Complutense University of Madrid
 
 -----------------------------------------------------------------------------
 
@@ -19,4 +18,4 @@ You can check [my other projects](https://github.com/asevillasastre?tab=reposito
 
 -----------------------------------------------------------------------------
 
-![alt text](https://github.com/asevillasastre/UCM-Rehabilitation-and-Distribution-Models/blob/main/images/Beamer-1.png?raw=true)
+![alt text](https://github.com/asevillasastre/UCM-Data-Mining-Final-Project/blob/main/plots/clustering/final-clustering.png?raw=true)
