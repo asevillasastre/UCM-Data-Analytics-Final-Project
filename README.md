@@ -5,9 +5,9 @@ It is proposed an study about car consumption tendences depending on diferent fa
 
 ### Content
 - Read the full project [here](https://github.com/asevillasastre/UCM-Data-Mining-Final-Project/blob/main/final-report.pdf)
-- This is all the [datasets](https://github.com/asevillasastre/UCM-Data-Mining-Final-Project/blob/main/final-report.pdf).
+- These are all the [datasets](https://github.com/asevillasastre/UCM-Data-Mining-Final-Project/blob/main/final-report.pdf).
 - You cand find here all [code used](https://github.com/asevillasastre/UCM-Data-Mining-Final-Project/tree/main/src).
-- There is some [significant plots](https://github.com/asevillasastre/UCM-Rehabilitation-and-Distribution-Models/tree/main/src/python).
+- There are also some [significant plots](https://github.com/asevillasastre/UCM-Rehabilitation-and-Distribution-Models/tree/main/src/python).
 
 ### Author
 Antonio Sevilla; with Javier Nicolás and Álvaro Franciso Toledano, studying in Complutense University of Madrid
