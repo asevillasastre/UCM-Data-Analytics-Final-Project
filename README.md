@@ -19,3 +19,9 @@ You can check [my other projects](https://github.com/asevillasastre?tab=reposito
 -----------------------------------------------------------------------------
 
 ![alt text](https://github.com/asevillasastre/UCM-Data-Mining-Final-Project/blob/main/plots/clustering/final-clustering.png?raw=true)
+![alt text](https://github.com/asevillasastre/UCM-Data-Mining-Final-Project/blob/main/plots/descriptive-plots/geographical-distribution.png?raw=true)
+![alt text](https://github.com/asevillasastre/UCM-Data-Mining-Final-Project/blob/main/plots/regression-tree/final-tree.png?raw=true)
+![alt text](https://github.com/asevillasastre/UCM-Data-Mining-Final-Project/blob/main/plots/clustering/correlations-graph.png?raw=true)
+![alt text](https://github.com/asevillasastre/UCM-Data-Mining-Final-Project/blob/main/plots/clustering/sedimentation.png?raw=true)
+
+
