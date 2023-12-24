@@ -10,7 +10,7 @@ It is proposed an study about car consumption tendences depending on diferent fa
 - There are also some [significant plots](https://github.com/asevillasastre/UCM-Rehabilitation-and-Distribution-Models/tree/main/src/python).
 
 ### Author
-Antonio Sevilla; with Javier Nicolás and Álvaro Franciso Toledano, studying in Complutense University of Madrid
+Antonio Sevilla; with Javier Nicolás and Álvaro Franciso Toledano, studying at Complutense University of Madrid
 
 -----------------------------------------------------------------------------
 
