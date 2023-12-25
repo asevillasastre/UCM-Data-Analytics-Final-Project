@@ -1,4 +1,4 @@
-# Data Analytics about Car Consumption Habits from a Telephone Survey
+# Data Analytics about Car Consumption Habits from a Survey
 
 ### Abstract
 It is proposed an study about car consumption tendences depending on diferent factors collected in a survey made by [Smartme Analytics](https://www.smartmeanalytics.com/); for Data Analytics subject of the Math Engeenering Degree in Complutense University of Madrid.
